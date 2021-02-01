@@ -5,6 +5,12 @@ form{
     width: 50%;
     margin: 0px auto;
 }
+form textarea{
+    height: 248px;
+}
+form input[type="submit"]{
+    height: 32px;
+}
 
 @media (max-width: 810px){
     form{
