@@ -5,12 +5,15 @@ form{
     width: 50%;
     margin: 0px auto;
 }
+<<<<<<< HEAD
 form textarea{
     height: 248px;
 }
 form input[type="submit"]{
     height: 32px;
 }
+=======
+>>>>>>> parent of c5e58d1 (Working contact section)
 
 @media (max-width: 810px){
     form{
